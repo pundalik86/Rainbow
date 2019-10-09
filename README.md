@@ -5,3 +5,5 @@ Green
 red
 black
 white 
+pink
+orange 
